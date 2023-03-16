@@ -1,2 +1,0 @@
-hello rename file
-use git mv example.txt  rename.txt
