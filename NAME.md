@@ -1,5 +1,5 @@
 Dipti Mayur Bhanushali
 
-maYUR
+Mayur MAYUR
 Dipti
 DIPTI SHAURYA
