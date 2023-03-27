@@ -6,3 +6,5 @@ this is a simple read me file
 lets edit now and see result
 
 making some changes  and updates
+new updates branch ing
+JUST SOME UPDATES ON A BRANCH
