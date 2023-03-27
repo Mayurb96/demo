@@ -1,4 +1,4 @@
 Dipti Mayur Bhanushali
 
-maYUR
+Mayur MAYUR
 Dipti
