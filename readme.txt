@@ -7,3 +7,6 @@ lets edit now and see result
 
 causing CONFLICT
 may cause problems for merge
+
+#heading 3
+making changes
